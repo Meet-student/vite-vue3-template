@@ -1,0 +1,15 @@
+**/*.svg
+/dist
+.DS_Store
+.eslintignore
+*.png
+*.toml
+.gitignore
+.prettierignore
+LICENSE
+.eslintcache
+*.lock
+yarn-error.log
+.history
+CNAME
+/build
